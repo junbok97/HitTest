@@ -13,6 +13,7 @@
 		CB52C1712C182DB200CD595C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB52C16F2C182DB200CD595C /* Main.storyboard */; };
 		CB52C1732C182DB300CD595C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB52C1722C182DB300CD595C /* Assets.xcassets */; };
 		CB52C1762C182DB300CD595C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB52C1742C182DB300CD595C /* LaunchScreen.storyboard */; };
+		CB8DE33A2C1AF7DE0045EB0E /* View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8DE3392C1AF7DE0045EB0E /* View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CB52C1722C182DB300CD595C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB52C1752C182DB300CD595C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB52C1772C182DB300CD595C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB8DE3392C1AF7DE0045EB0E /* View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				CB52C16B2C182DB200CD595C /* SceneDelegate.swift */,
 				CB52C16D2C182DB200CD595C /* ViewController.swift */,
 				CB52C16F2C182DB200CD595C /* Main.storyboard */,
+				CB8DE3392C1AF7DE0045EB0E /* View.swift */,
 				CB52C1722C182DB300CD595C /* Assets.xcassets */,
 				CB52C1742C182DB300CD595C /* LaunchScreen.storyboard */,
 				CB52C1772C182DB300CD595C /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB8DE33A2C1AF7DE0045EB0E /* View.swift in Sources */,
 				CB52C16E2C182DB200CD595C /* ViewController.swift in Sources */,
 				CB52C16A2C182DB200CD595C /* AppDelegate.swift in Sources */,
 				CB52C16C2C182DB200CD595C /* SceneDelegate.swift in Sources */,
